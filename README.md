@@ -1,6 +1,13 @@
-# Omniverse kit-scrubber-experiment
+# Omniverse kit-scrubber-experiment [robotica.example.video.scrubbing]
 
 A scratch space for exploring and experimenting with a simple video scrubbing UI widget.
+
+![](./exts/robotica.example.video.scrubbing/data/preview.png)
+
+![](./exts/robotica.example.video.scrubbing/data/preview.mp4)
+<video width="320" height="240" controls>
+  <source src="./exts/robotica.example.video.scrubbing/data/preview.mp4" type="video/mp4">
+</video>
 
 # App Link Setup
 
@@ -15,4 +22,3 @@ Run:
 
 # Background
 See https://discord.com/channels/827959428476174346/1090676075887067146 for more info
-- See also https://github.com/jshrake-nvidia/kit-cv-video-example

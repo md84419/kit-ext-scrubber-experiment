@@ -1,0 +1,523 @@
+[
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "dock_id": 5,
+                    "height": 569.0,
+                    "position_x": 0.0,
+                    "position_y": 26.0,
+                    "selected_in_dock": false,
+                    "title": "Main ToolBar",
+                    "visible": true,
+                    "width": 44.0
+                  }
+                ],
+                "dock_id": 5,
+                "position": "LEFT"
+              },
+              {
+                "children": [
+                  {
+                    "dock_id": 6,
+                    "dock_tab_bar_enabled": true,
+                    "dock_tab_bar_visible": true,
+                    "height": 569.0,
+                    "position_x": 46.0,
+                    "position_y": 26.0,
+                    "selected_in_dock": true,
+                    "title": "Viewport",
+                    "visible": true,
+                    "width": 1257.0
+                  },
+                  {
+                    "dock_id": 6,
+                    "height": 569.0,
+                    "position_x": 250.0,
+                    "position_y": 70.0,
+                    "selected_in_dock": false,
+                    "title": "Extensions",
+                    "visible": true,
+                    "width": 1257.0
+                  },
+                  {
+                    "dock_id": 6,
+                    "height": 569.0,
+                    "position_x": 60.0,
+                    "position_y": 60.0,
+                    "selected_in_dock": false,
+                    "title": "Omni::UI Doc",
+                    "visible": true,
+                    "width": 1257.0
+                  },
+                  {
+                    "dock_id": 6,
+                    "height": 569.0,
+                    "position_x": 300.0,
+                    "position_y": 110.0,
+                    "selected_in_dock": false,
+                    "title": "Omni.UI Scene API Documentation",
+                    "visible": true,
+                    "width": 1257.0
+                  },
+                  {
+                    "dock_id": 6,
+                    "height": 569.0,
+                    "position_x": 884.0,
+                    "position_y": 454.0,
+                    "selected_in_dock": false,
+                    "title": "Graph Editor Example",
+                    "visible": true,
+                    "width": 1257.0
+                  },
+                  {
+                    "dock_id": 6,
+                    "height": 569.0,
+                    "position_x": 300.0,
+                    "position_y": 110.0,
+                    "selected_in_dock": false,
+                    "title": "Omni.UI Graph Doc",
+                    "visible": true,
+                    "width": 1257.0
+                  },
+                  {
+                    "dock_id": 6,
+                    "height": 569.0,
+                    "position_x": 300.0,
+                    "position_y": 110.0,
+                    "selected_in_dock": false,
+                    "title": "Viewport Doc",
+                    "visible": true,
+                    "width": 1257.0
+                  }
+                ],
+                "dock_id": 6,
+                "position": "RIGHT"
+              }
+            ],
+            "dock_id": 3,
+            "position": "TOP"
+          },
+          {
+            "children": [
+              {
+                "dock_id": 4,
+                "dock_tab_bar_enabled": true,
+                "dock_tab_bar_visible": true,
+                "height": 311.0,
+                "position_x": 0.0,
+                "position_y": 597.0,
+                "selected_in_dock": true,
+                "title": "Content",
+                "visible": true,
+                "width": 1303.0
+              },
+              {
+                "dock_id": 4,
+                "height": 311.0,
+                "position_x": 884.0,
+                "position_y": 454.0,
+                "selected_in_dock": false,
+                "title": "NVIDIA Assets",
+                "visible": true,
+                "width": 1303.0
+              },
+              {
+                "dock_id": 4,
+                "height": 311.0,
+                "position_x": 0.0,
+                "position_y": 643.0,
+                "selected_in_dock": false,
+                "title": "Console",
+                "visible": true,
+                "width": 1303.0
+              },
+              {
+                "dock_id": 4,
+                "height": 311.0,
+                "position_x": 500.0,
+                "position_y": 170.0,
+                "selected_in_dock": false,
+                "title": "Script Editor",
+                "visible": true,
+                "width": 1303.0
+              },
+              {
+                "dock_id": 4,
+                "height": 311.0,
+                "position_x": 884.0,
+                "position_y": 454.0,
+                "selected_in_dock": false,
+                "title": "Samples",
+                "visible": true,
+                "width": 1303.0
+              },
+              {
+                "dock_id": 4,
+                "height": 311.0,
+                "position_x": 884.0,
+                "position_y": 454.0,
+                "selected_in_dock": false,
+                "title": "Asset Stores (beta)",
+                "visible": true,
+                "width": 1303.0
+              },
+              {
+                "dock_id": 4,
+                "height": 311.0,
+                "position_x": 884.0,
+                "position_y": 454.0,
+                "selected_in_dock": false,
+                "title": "Materials",
+                "visible": true,
+                "width": 1303.0
+              },
+              {
+                "dock_id": 4,
+                "height": 311.0,
+                "position_x": 884.0,
+                "position_y": 454.0,
+                "selected_in_dock": false,
+                "title": "Environments",
+                "visible": true,
+                "width": 1303.0
+              }
+            ],
+            "dock_id": 4,
+            "position": "BOTTOM"
+          }
+        ],
+        "dock_id": 1,
+        "position": "LEFT"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "dock_id": 7,
+                "dock_tab_bar_enabled": true,
+                "dock_tab_bar_visible": true,
+                "height": 465.0,
+                "position_x": 1305.0,
+                "position_y": 26.0,
+                "selected_in_dock": true,
+                "title": "Stage",
+                "visible": true,
+                "width": 495.0
+              },
+              {
+                "dock_id": 7,
+                "height": 465.0,
+                "position_x": 60.0,
+                "position_y": 60.0,
+                "selected_in_dock": false,
+                "title": "Layer",
+                "visible": true,
+                "width": 495.0
+              },
+              {
+                "dock_id": 7,
+                "height": 465.0,
+                "position_x": 60.0,
+                "position_y": 60.0,
+                "selected_in_dock": false,
+                "title": "Render Settings",
+                "visible": true,
+                "width": 495.0
+              },
+              {
+                "dock_id": 7,
+                "height": 465.0,
+                "position_x": 1305.0,
+                "position_y": 26.0,
+                "selected_in_dock": false,
+                "title": "Debug Settings",
+                "visible": true,
+                "width": 495.0
+              }
+            ],
+            "dock_id": 7,
+            "position": "TOP"
+          },
+          {
+            "children": [
+              {
+                "dock_id": 8,
+                "height": 415.0,
+                "position_x": 1345.0,
+                "position_y": 493.0,
+                "selected_in_dock": false,
+                "title": "Property",
+                "visible": true,
+                "width": 495.0
+              },
+              {
+                "dock_id": 8,
+                "height": 415.0,
+                "position_x": 550.0,
+                "position_y": 220.0,
+                "selected_in_dock": false,
+                "title": "Commands",
+                "visible": true,
+                "width": 495.0
+              },
+              {
+                "dock_id": 8,
+                "height": 415.0,
+                "position_x": 1305.0,
+                "position_y": 493.0,
+                "selected_in_dock": false,
+                "title": "VS Code Link",
+                "visible": true,
+                "width": 495.0
+              },
+              {
+                "dock_id": 8,
+                "dock_tab_bar_enabled": true,
+                "dock_tab_bar_visible": true,
+                "height": 415.0,
+                "position_x": 1305.0,
+                "position_y": 493.0,
+                "selected_in_dock": true,
+                "title": "OpenCV Video Scrubbing Example",
+                "visible": true,
+                "width": 495.0
+              }
+            ],
+            "dock_id": 8,
+            "position": "BOTTOM"
+          }
+        ],
+        "dock_id": 2,
+        "position": "RIGHT"
+      }
+    ],
+    "dock_id": 3358485147
+  },
+  {
+    "dock_id": 0,
+    "height": 440.0,
+    "position_x": 0.0,
+    "position_y": 468.0,
+    "selected_in_dock": false,
+    "title": "Timeline toolbar",
+    "visible": false,
+    "width": 1800.0
+  },
+  {
+    "dock_id": 0,
+    "height": 36.0,
+    "position_x": 60.0,
+    "position_y": 60.0,
+    "selected_in_dock": false,
+    "title": "Semantics Schema Editor",
+    "visible": false,
+    "width": 32.0
+  },
+  {
+    "dock_id": 0,
+    "height": 300.0,
+    "position_x": 750.0,
+    "position_y": 320.0,
+    "selected_in_dock": false,
+    "title": "My Window",
+    "visible": false,
+    "width": 300.0
+  },
+  {
+    "dock_id": 0,
+    "height": 60.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Changing directory ...",
+    "visible": false,
+    "width": 300.0
+  },
+  {
+    "dock_id": 0,
+    "height": 0.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Options",
+    "visible": false,
+    "width": 220.0
+  },
+  {
+    "dock_id": 0,
+    "height": 0.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Filter",
+    "visible": false,
+    "width": 150.0
+  },
+  {
+    "dock_id": 0,
+    "height": 600.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Add Attribute...",
+    "visible": false,
+    "width": 400.0
+  },
+  {
+    "dock_id": 0,
+    "height": 600.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Preferences",
+    "visible": false,
+    "width": 1000.0
+  },
+  {
+    "dock_id": 0,
+    "height": 600.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Select Screenshot Directory",
+    "visible": false,
+    "width": 1000.0
+  },
+  {
+    "dock_id": 0,
+    "height": 600.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Select Template",
+    "visible": false,
+    "width": 1000.0
+  },
+  {
+    "dock_id": 0,
+    "height": 600.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Select Filename (Local Files Only)",
+    "visible": false,
+    "width": 1000.0
+  },
+  {
+    "dock_id": 0,
+    "height": 800.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "OmniGraph Node Description Editor",
+    "visible": false,
+    "width": 600.0
+  },
+  {
+    "dock_id": 0,
+    "height": 500.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "OmniGraph Toolkit",
+    "visible": false,
+    "width": 800.0
+  },
+  {
+    "dock_id": 0,
+    "height": 710.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Captured Traces Browser",
+    "visible": false,
+    "width": 800.0
+  },
+  {
+    "dock_id": 0,
+    "height": 600.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Physics Settings",
+    "visible": false,
+    "width": 400.0
+  },
+  {
+    "dock_id": 0,
+    "height": 560.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "PhysX Vehicle Wizard",
+    "visible": false,
+    "width": 630.0
+  },
+  {
+    "dock_id": 0,
+    "height": 600.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Statistics",
+    "visible": false,
+    "width": 400.0
+  },
+  {
+    "dock_id": 0,
+    "height": 114.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "omni.ui.scene 2121993297152",
+    "visible": false,
+    "width": 210.8000030517578
+  },
+  {
+    "dock_id": 0,
+    "height": 114.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "omni.ui.scene 2121993292672",
+    "visible": false,
+    "width": 210.8000030517578
+  },
+  {
+    "dock_id": 0,
+    "height": 114.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "omni.ui.scene 2121993320112",
+    "visible": false,
+    "width": 210.8000030517578
+  },
+  {
+    "dock_id": 0,
+    "height": 600.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": " Sensors Output ",
+    "visible": false,
+    "width": 800.0
+  },
+  {
+    "dock_id": 0,
+    "height": 600.0,
+    "position_x": 3.4028234663852886e+38,
+    "position_y": 3.4028234663852886e+38,
+    "selected_in_dock": false,
+    "title": "Simulation Settings Status",
+    "visible": false,
+    "width": 400.0
+  }
+]
