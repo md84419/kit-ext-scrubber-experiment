@@ -2,9 +2,9 @@
 
 A scratch space for exploring and experimenting with a simple video scrubbing UI widget.
 
-![](./exts/robotica.example.video.scrubbing/data/preview.png)
+[kk](./exts/robotica.example.video.scrubbing/data/preview.png)
 
-![](./exts/robotica.example.video.scrubbing/data/preview.mp4)
+[kk](./exts/robotica.example.video.scrubbing/data/preview.mp4)
 <video width="320" height="240" controls>
   <source src="./exts/robotica.example.video.scrubbing/data/preview.mp4" type="video/mp4">
 </video>
