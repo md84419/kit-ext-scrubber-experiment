@@ -443,6 +443,7 @@
         "${workspaceFolder}/app/kit/exts/omni.videoencoding",
         "${workspaceFolder}/app/kit/exts/omni.volume",
         "${workspaceFolder}/app/kit/exts/usdrt.gf.tests",
+        "./app/kit/python/Lib/site-packages"
     ],
 
     // Python & Pylance Setup
@@ -452,11 +453,11 @@
 
     // We use "black" as a formatter:
     "python.formatting.provider": "black",
-    "python.formatting.blackArgs": ["--line-length", "120"],
+    "python.formatting.blackArgs": ["--line-length", "200"],
 
     // Use flake8 for linting
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
-    "python.linting.flake8Args": ["--max-line-length=120"]
+    "python.linting.flake8Args": ["--max-line-length=200"]
 }
