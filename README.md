@@ -26,5 +26,13 @@ Mine creates a VideoScrubber widget in a dockable window.
 This is example code. It is not ready for production use and has not been optimised. It is unlikley to scale well.
 
 
+# Optimising thumbnail videos
+For a video that will be displayed as 256x256 pixels, you want to create a thumbnail version of the video which is
+256x256 resolution and exactly 256 frames long. The framerate of the thumbnail version doesn't matter other than you
+ideally want every frame to be different (no duplicate frames). The video should be progressive rather than interfaced
+for best results.
+
+
 # Contributing
-The source code for this repository is provided as-is. We only accept outside contributions from individuals who have signed an Individual Contributor License Agreement.
+The source code for this repository is provided as-is. We only accept outside contributions from individuals who have
+signed an Individual Contributor License Agreement.
