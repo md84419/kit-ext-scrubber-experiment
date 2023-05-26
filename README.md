@@ -2,7 +2,7 @@
 
 A scratch space for exploring and experimenting with a simple video scrubbing UI widget.
 
-[](./exts/robotica.example.video.scrubbing/data/preview.gif)
+![](./exts/robotica.example.video.scrubbing/data/preview.gif)
 
 # App Link Setup
 
